@@ -27,6 +27,12 @@
         android:background="#8BC34A"
         android:layout_width="100dp"
         android:layout_height="wrap_content"/>
+    <TextView
+        android:text="tambahan"
+        android:textSize="30sp"
+        android:background="#8BC34A"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"/>
 
 
 
